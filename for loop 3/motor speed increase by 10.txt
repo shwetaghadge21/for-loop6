@@ -1,0 +1,10 @@
+#include <stdio.h>
+void main()
+{
+    int i,speed;
+    for(speed=10;speed<=100;speed=speed+10)
+    {
+        printf("%d\n",speed);
+    }
+      
+    }
